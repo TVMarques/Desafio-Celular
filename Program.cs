@@ -8,7 +8,7 @@ nokia.InstalarAplicativo("WhatsApp");
 
 Console.WriteLine("\n");
 
-Console.WriteLine("Smartphone Nokia:");
+Console.WriteLine("Smartphone Iphone:");
 Smartphone iphone = new Iphone(numero: "4589", modelo: "Modelo 2", imei: "222222222", memoria: 128);
 iphone.Ligar();
 nokia.InstalarAplicativo("Telegram");
